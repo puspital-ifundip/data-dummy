@@ -1,0 +1,21 @@
+﻿id;nama_pembangkit;tipe_pembangkit;kapasitas_pembangkit_mw;produksi_mwh;provinsi
+1;PLTU Merdeka;PLTU;500;2000000;Jawa Barat
+2;PLTA Harmoni;PLTA;300;1200000;Kalimantan Timur
+3;PLTS Surya Makmur;PLTS;50;150000;Jawa Tengah
+4;PLTP Gunung Jaya;PLTP;100;500000;Sulawesi Utara
+5;PLTD Sejahtera;PLTD;30;100000;Jawa Timur
+6;PLTB Angin Lestari;PLTB;80;300000;Sumatra Utara
+7;PLTG Energi Mandiri;PLTG;200;800000;Banten
+8;PLTU Cemerlang;PLTU;450;1800000;Sumatra Barat
+9;PLTA Sungai Indah;PLTA;150;600000;Sulawesi Selatan
+10;PLTS Sinar Harapan;PLTS;40;120000;Kalimantan Barat
+11;PLTP Gunung Sakti;PLTP;90;450000;Jawa Barat
+12;PLTD Cahaya Kencana;PLTD;25;80000;Kalimantan Selatan
+13;PLTB Angin Sejati;PLTB;70;250000;Jawa Timur
+14;PLTG Bumi Makmur;PLTG;180;720000;Sulawesi Tengah
+15;PLTU Energi Bersama;PLTU;400;1600000;Bali
+16;PLTA Sungai Damai;PLTA;120;480000;Papua
+17;PLTS Sinar Terang;PLTS;35;90000;Sumatra Selatan
+18;PLTP Gunung Mulia;PLTP;60;300000;Kalimantan Utara
+19;PLTD Sejahtera Abadi;PLTD;20;50000;Nusa Tenggara Barat
+20;PLTB Angin Damai;PLTB;75;200000;Sulawesi Barat
